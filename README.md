@@ -1,2 +1,3 @@
-# 1v1.LOL-WORKING
-1v1.LOL - working with servers from 1v1lolreloaded.com.
+# 1v1.LOL
+Here is 1v1.LOL with working servers provided by 1v1lolreloaded.com.
+Fork or download this repo to host or run it yourself.
